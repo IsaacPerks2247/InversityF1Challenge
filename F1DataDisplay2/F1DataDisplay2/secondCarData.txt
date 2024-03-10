@@ -1,0 +1,1 @@
+{'meeting_key': 1229, 'session_key': 9472, 'driver_number': 63, 'date': '2024-03-01T17:03:36.050000', 'rpm': 0, 'speed': 0, 'n_gear': 0, 'throttle': 104, 'drs': 8, 'brake': 104}
